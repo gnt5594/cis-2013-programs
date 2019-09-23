@@ -1,0 +1,44 @@
+body {
+    font-family: URW Chancery, cursive, sans-serif;
+    background: #D1EDF2;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #D5D5D5;
+    border: 5px solid #FEFEFE;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	color: #7C4F6E;
+	font-weight: bold;
+	text-align: center;
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: right;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #000000;
+}
+
+br {
+    clear: left;
+}
